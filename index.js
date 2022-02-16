@@ -32,6 +32,7 @@ let InstaAPIUsers = [
 				postLikeStatus: false
 			}
 		],
+		userBio: 'TPO @DIET\nex. DAIICT\nMaths is my passion',
 		userFollowers: 990,
 		userFollowing: 1012
 	},
@@ -57,6 +58,7 @@ let InstaAPIUsers = [
 				postLikeStatus: false
 			}
 		],
+		userBio: 'Hospital management system specialist\nDE cordinator\nDBMS',
 		userFollowers: 243,
 		userFollowing: 336
 	},
@@ -74,6 +76,7 @@ let InstaAPIUsers = [
 				postLikeStatus: false
 			}
 		],
+		userBio: 'Apple devices enthusiast\nCN',
 		userFollowers: 481,
 		userFollowing: 523
 	},
@@ -83,6 +86,7 @@ let InstaAPIUsers = [
 		userDP: 'rajun',
 		posts:[
 		],
+		userBio: 'no need to mention anything\nall-rounder\nfast-learner\nbuilding self-driving car @DIET',
 		userFollowers: 660,
 		userFollowing: 423
 	},
@@ -100,6 +104,7 @@ let InstaAPIUsers = [
 				postLikeStatus: false
 			}
 		],
+		userBio: '.NET specialist\nAdmission marketeer\nstay cool',
 		userFollowers: 779,
 		userFollowing: 220
 	}
